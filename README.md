@@ -1,5 +1,3 @@
-# android-mp3Player
-
 About
 -----------
 + to test the MediaPlayer class in Android.
